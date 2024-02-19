@@ -1631,7 +1631,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 100%;
+			width: 60%;
 		}
 
 		.image.fit {
@@ -2233,7 +2233,7 @@ input, select, textarea {
 			}
 
 				#top .image {
-					margin: 0 auto 2em auto;
+					margin: 0 auto 2em 6em;
 				}
 
 	}
